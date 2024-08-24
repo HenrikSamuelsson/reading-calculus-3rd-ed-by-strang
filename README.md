@@ -1,4 +1,4 @@
-# Reading Caluculus Third Edition by Strang
+# Reading Calculus Third Edition by Strang
 
 Solutions to problems from the book Calculus Third Edition written by Professor Gilbert Strang at Massachusetts Institute of Technology.
 
